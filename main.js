@@ -1,4 +1,4 @@
-//  VR SETUP
+///  VR SETUP
 import * as THREE from 'three';
 
 import { BoxLineGeometry } from 'three/addons/geometries/BoxLineGeometry.js';
